@@ -472,7 +472,7 @@ header .navbar-nav .features_list:hover .sub_menu {
 
 .about_img img {
     width: 100%;
-    animation: move 5s infinite;
+    
     transform: translateY(0);
 }
 
