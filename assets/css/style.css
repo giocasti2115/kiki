@@ -1620,7 +1620,7 @@ footer:before {
 }
 
 .bread_img_6 {
-    background: linear-gradient(#0000006e, #0000008a), url(../images/breadcrumb/breadcrumb-6.jpg);
+    background: linear-gradient(#0000006e, #0000008a), url(../images/breadcrumb/breadcrumb-4.jpg);
     background-size: cover;
 }
 
@@ -5914,6 +5914,13 @@ html {
 .story-btn.alt {
     background: linear-gradient(135deg, var(--blue-color), #6ee7b7);
     color: #032345;
+}
+
+.page-anchor {
+    display: block;
+    position: relative;
+    top: -120px;
+    height: 0;
 }
 
 .scroll-top-btn {
